@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @HarisBinSaif
 - 👀 I’m interested in Data Engineering, Management, Governance, Warehousing & Analytics
-- 🌱 I’m currently learning Open Source Contributions
-- 💞️ I’m looking to collaborate on open source data engineering related projects
-- 📫 Work email: haris.bin@moduscreate.com
 - 📫 Personal email: harisbinsaif1@gmail.com
 
 <!---
