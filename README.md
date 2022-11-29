@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @HarisBinSaif
-- 👀 I’m interested in Data Engineering, Management, Governance, Warehousing & Analytics
-- 📫 Personal email: harisbinsaif1@gmail.com
+## Data Consultant | AWS
 
-<!---
-HarisBinSaif/HarisBinSaif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="center" alt="GIF" height="160px" src="https://i.pinimg.com/originals/58/72/58/58725865c95fe20cfc595725fca0d6a3.gif" />
+
+
+I am a Data & AWS Consultant &  I help my customers improve their business by the use of Amazon Web Services and data to solve complex business problems. As an experienced data consultant and AWS professional, I excel at designing and implementing scalable and cost-effective solutions.
+
+---
+
+##### Languages I use
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
