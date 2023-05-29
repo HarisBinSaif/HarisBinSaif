@@ -1,4 +1,4 @@
-## Data Consultant | AWS
+## Consultant, Data Engineer | AWS
 
 <img align="center" alt="GIF" height="160px" src="https://i.pinimg.com/originals/58/72/58/58725865c95fe20cfc595725fca0d6a3.gif" />
 
