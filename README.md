@@ -7,6 +7,7 @@ Experienced in:
 - Python, PySpark, Flask, FastApi, Django
 - SQL, PostgreSQL, MySQL, SQLite, MS SQL, MariaDB, Oracle, Snowflake Cloud Data Warehouse, Greenplum, MongoDB, Firebase
 - AWS (Amazon Web Services), Databricks, Docker, Kubernettes, IaC (Terraform, CloudFormation)
-- Mage-ai, Airbyte, Airflow, singer.io, Talend Open Studion for Data Integration, Informatica
+- Mage-ai, Airbyte, Airflow, singer.io, Talend Open Studio for Data Integration, Informatica
 - Typescript, React.js
+- Power BI, Metabase, Google Data Studio
 
