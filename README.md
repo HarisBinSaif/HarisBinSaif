@@ -1,13 +1,13 @@
-## Independent Contractor | Data & Cloud | Top Rated Plus on Upwork
+## Tech-Agnostic Data Engineer | Real-Time & Batch Systems
 
-Data Engineer specializing in data and cloud (AWS). Experienced in building scalable, robust data pipelines and integrations, cloud and data architecture, and solution design. Proficient with open-source technologies.
+I am a tech-agnostic data engineer and I enjoy solving complex data problems, finding patterns in messy datasets, and making sure the work actually supports the business. My focus is always on clean architecture, performance, and making data useful - not just moving it around. 
 
-Experienced in:
-
-- Python, PySpark, Flask, FastApi, Django
-- SQL, PostgreSQL, MySQL, SQLite, MS SQL, MariaDB, Oracle, Snowflake Cloud Data Warehouse, Greenplum, MongoDB, Firebase
-- AWS (Amazon Web Services), Databricks, Docker, Kubernettes, IaC (Terraform, CloudFormation)
-- Mage-ai, Airbyte, Airflow, singer.io, Talend Open Studio for Data Integration, Informatica
-- Typescript, React.js
-- Power BI, Metabase, Google Data Studio
+Here is what I have worked with: 
+- Programming & Scripting: Python (Flask, FastAPI, Django, Selenium, PySpark), SQL 
+- Data Engineering & Integration: Talend, Mage.ai, Apache Airflow, Airbyte, Databricks, Kafka, Debezium
+- Databases & Data Warehousing: Data Modeling, PostgreSQL, MySQL, Snowflake, Greenplum, MongoDB, Firebase, Clickhouse 
+- Cloud & DevOps: AWS (Lambda, API Gateway, S3, RDS, SQS and more), Docker, Kubernetes, Azure DevOps, Terraform, CloudFormation 
+- Testing & Automation: Postman, Cypress.io, Swagger, Automated Data Workflows 
+- Data Visualization: Power BI, Metabase, Google Data Studio, Grafana 
+- Collaboration & Leadership: Cross-functional team mentoring, process optimization, data-driven decision-making
 
